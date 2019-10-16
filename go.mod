@@ -1,4 +1,4 @@
-module github.com/Teddy-Schmitz/logrus_eventbridge
+module github.com/Teddy-Schmitz/eventbridge_logrus
 
 go 1.13
 
