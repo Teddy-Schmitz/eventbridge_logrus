@@ -1,4 +1,4 @@
-package logrus_eventbridge
+package eventbridge_logrus
 
 import (
 	"context"
