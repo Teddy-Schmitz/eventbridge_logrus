@@ -1,7 +1,7 @@
 # Amazon EventBridge Hook for [Logrus](https://github.com/sirupsen/logrus)
 
 ### Install
-> $ go get github.com/teddy-schmitz/eventbridge_logrus
+> $ go get github.com/Teddy-Schmitz/eventbridge_logrus
 
 ### Usage
 ```go
@@ -9,7 +9,7 @@ package main
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/teddy-schmitz/eventbridge_logrus"
+	"github.com/Teddy-Schmitz/eventbridge_logrus"
 )
 
 func main() {
